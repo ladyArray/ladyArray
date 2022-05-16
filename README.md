@@ -1,5 +1,5 @@
 
-## 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
+### 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
 
 ```
 let  = skills [
