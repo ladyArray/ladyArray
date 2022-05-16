@@ -12,9 +12,9 @@ let  = skills [
 ```
 ----------------------------------------------------------------------------------
 
--[![LinkedIn](https://www.flaticon.es/icono-premium/linkedin_3488326?term=linkedin&page=1&position=11&page=1&position=11&related_id=3488326&origin=search)](https://www.linkedin.com/in/regina-rodriguez-web-developer/)
+[![LinkedIn]()](https://www.linkedin.com/in/regina-rodriguez-web-developer/)
 </br>
--[![Email](https://www.flaticon.es/icono-gratis/email_3447672?term=email&page=1&position=11&page=1&position=11&related_id=3447672&origin=search)](mailto:regina.rguez.c@gmail.com)
+[![Email]()](mailto:regina.rguez.c@gmail.com)
 
 
 
