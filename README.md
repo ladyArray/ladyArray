@@ -12,10 +12,5 @@ let  = skills [
 ```
 ----------------------------------------------------------------------------------
 
-[![LinkedIn]()](https://www.linkedin.com/in/regina-rodriguez-web-developer/)
-</br>
-[![Email]()](mailto:regina.rguez.c@gmail.com)
-
-
 
 
