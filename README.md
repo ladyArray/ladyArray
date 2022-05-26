@@ -1,5 +1,5 @@
 
-# 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
+## 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
 -----------------------------------------------------------------------------
 
 * 🖥️  Puedes ver mi portfolio [aqui](http://ladyArray.github.io/)
