@@ -1,5 +1,5 @@
 
-## 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
+# 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
 -----------------------------------------------------------------------------
 
 * 🖥️  Puedes ver mi portfolio [aqui](http://ladyArray.github.io/)
@@ -8,7 +8,7 @@
 <a href="https://www.github.com/ladyArray" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ladyArray?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a>
 
-# Habilidades
+## Habilidades
 
 ```
 let  = skills [
@@ -44,11 +44,11 @@ let  = skills [
 </p>
 
 
-# RRSS
+## RRSS
 
 <p align="left"> <a href="https://www.codepen.io/ladyArray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ladyArray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/regina-rodriguez-web-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-# Trayectoria ↗
+## Trayectoria ↗
 
 <a href="http://www.github.com/ladyArray"><img src="https://github-readme-stats.vercel.app/api?username=ladyArray&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&show_icons=true" alt="ladyArray's GitHub stats" /></a>
 
