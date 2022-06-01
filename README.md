@@ -5,7 +5,8 @@
 * 🖥️  Puedes ver mi portfolio [aqui](http://ladyArray.github.io/)
 * ✉️  Contáctame en [regina.rguez.c@gmail.com](mailto:regina.rguez.c@gmail.com)
 
-
+<a href="https://www.github.com/ladyArray" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ladyArray?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a>
 
 ## Habilidades
 
