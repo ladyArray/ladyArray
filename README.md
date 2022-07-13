@@ -1,5 +1,6 @@
 
-## 💻 Técnica Superior en Desarrollo de Aplicaciones Web Especializada en Front-End
+## 💻 Frontend Software Developer
+
 -----------------------------------------------------------------------------
 
 * 🖥️  Puedes ver mi portfolio [aqui](http://ladyArray.github.io/)
