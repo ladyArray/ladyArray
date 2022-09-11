@@ -1,5 +1,5 @@
 
-## 💻 Frontend Software Developer
+## 💻 Frontend Web Developer
 
 -----------------------------------------------------------------------------
 
