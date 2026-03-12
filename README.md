@@ -1,77 +1,116 @@
+<h1 align="center">Hi, I'm Regy 👋</h1>
 
-## 💻 Frontend Web Developer
+<h3 align="center">Power Platform & SharePoint Developer</h3>
 
------------------------------------------------------------------------------
-
-* 🖥️  Puedes ver mi portfolio [aqui](http://ladyArray.github.io/)
-* ✉️  Contáctame en [regina.rguez.c@gmail.com](mailto:regina.rguez.c@gmail.com)
-
-<a href="https://www.github.com/ladyArray" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ladyArray?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a>
-
-## Habilidades
-
-```
-let  = skills [
-  { name: "🏷️ HTML" },
-  { name: "🎨 CSS" },
-  { name: "🤖 JS" },
-  { name: "🐱‍💻 Git" },
-]
-```
-
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<p align="center">
+  Building solutions for <strong>SharePoint Online</strong> and <strong>Microsoft 365</strong><br/>
+  with a focus on <strong>SPFx</strong>, <strong>React</strong>, <strong>TypeScript</strong> and automation.
 </p>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<p align="center">
+  <a href="mailto:regina.rguez.c@gmail.com"><img src="https://img.shields.io/badge/Email-regina.rguez.c%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/regina-rodriguez-sharepoint-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Regina%20Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ladyArray" target="_blank"><img src="https://img.shields.io/badge/GitHub-ladyArray-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="http://ladyArray.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-FF4DA6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-<p align="left">
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-</p>
+---
+
+## ✨ About me
+
+- 💼 Working as a **Power Platform & SharePoint Developer**
+- ⚙️ Building **WebParts, Extensions and Form Customizers**
+- 🧩 Creating modern solutions on **SharePoint Online**
+- 🔗 Connecting SharePoint with **Power Platform** and **Azure**
+- 🛠️ Automating processes with **PowerShell** and **Microsoft 365 tools**
+
+---
+
+## 🚀 Current focus
 
 <p align="left">
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://img.shields.io/badge/SPFx-current-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-stack-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-core-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Platform-integrations-742774?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-automation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
-## RRSS
+---
 
-<p align="left"> <a href="https://www.codepen.io/ladyArray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/ladyArray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/regina-rodriguez-web-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 🧰 Main technologies
 
-## Trayectoria ↗
+### Microsoft 365 / SharePoint
+<p align="left">
+  <a href="https://learn.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SPFx-SharePoint%20Framework-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" /></a>
+  <a href="https://pnp.github.io/pnpjs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PnPjs-library-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft%20365-ecosystem-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" /></a>
+  <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Platform-workflows-742774?style=for-the-badge&logo=powerautomate&logoColor=white" /></a>
+</p>
 
-<a href="http://www.github.com/ladyArray"><img src="https://github-readme-stats.vercel.app/api?username=ladyArray&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&show_icons=true" alt="ladyArray's GitHub stats" /></a>
+### Frontend
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /></a>
+  <a href="https://developer.microsoft.com/en-us/fluentui" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SCSS-C76494?style=for-the-badge&logo=sass&logoColor=white" /></a>
+</p>
 
-<a href="http://www.github.com/ladyArray"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ladyArray&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Automation & backend
+<p align="left">
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure%20Automation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+</p>
 
-<a href="http://www.github.com/ladyArray"><img src="https://activity-graph.herokuapp.com/graph?username=ladyArray&bg_color=22272e&color=ffffff&line=ec4899&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/ladyArray" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladyArray&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🧩 What I usually build
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WebParts-SharePoint-7B83EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Extensions-SPFx-7B83EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Form%20Customizers-Microsoft%20365-7B83EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-PowerShell-7B83EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Integrations-Azure%20%2B%20Power%20Platform-7B83EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modernization-SharePoint%20Online-7B83EB?style=flat-square" />
+</p>
+
+---
+
+## 🌍 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spanish-Native-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Full%20Professional-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-Professional%20Working-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🔗 Find me here
+
+<p align="left">
+  <a href="https://github.com/ladyArray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/regina-rodriguez-sharepoint-developer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <a href="https://github.com/ladyArray">
+    <img src="https://github-readme-stats.vercel.app/api?username=ladyArray&show_icons=true&hide_border=true&title_color=7B83EB&text_color=c9d1d9&icon_color=FF4DA6&bg_color=0d1117" alt="GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ladyArray">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladyArray&langs_count=8&layout=compact&hide_border=true&title_color=7B83EB&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+  </a>
+</p>
