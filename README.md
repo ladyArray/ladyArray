@@ -82,16 +82,6 @@
 
 ---
 
-## 🌍 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Spanish-Native-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Full%20Professional-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-Professional%20Working-orange?style=for-the-badge" />
-</p>
-
----
-
 ## 🔗 Find me here
 
 <p align="left">
